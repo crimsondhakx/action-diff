@@ -46,9 +46,9 @@
   },
   "devDependencies": {
     "@actions/core": "3.0.1",
-    "@types/node": "24.13.3",
+    "@types/node": "24.19.0",
     "esbuild": "0.28.2",
-    "tsx": "4.23.13",
+    "tsx": "4.23.15",
     "typescript": "7.0.2"
   },
   "keywords": [
